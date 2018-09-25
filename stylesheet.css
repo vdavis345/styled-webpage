@@ -1,0 +1,64 @@
+.row{
+    height:400px;
+    width: 1240px;
+    border: solid red;
+}
+
+#one{
+    display: flex;
+}
+
+#columnone{
+    height: 400px;
+    width: 400px;
+    border: solid magenta;
+    
+}
+
+#coulumntwo{
+    height: 400px;
+    width: 400px;
+    border: solid blue;
+    
+   
+
+}
+#three{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+#container{
+    height:300px;
+    width:90%;
+    background: powderblue;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+#sub1{
+    height:200px;
+    width:200px;
+    background:blue;
+}
+
+#sub2{
+    height: 200px;
+    width:200px;
+    background:brown;
+    margin: 5%;
+    
+}
+
+#sub3{
+    height:200px;
+    width:200px;
+    background:blueviolet;
+}
+
+body{
+    background-image:url(./images/Apple-Cool-Backgrounds)
+}

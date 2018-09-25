@@ -1,0 +1,76 @@
+.row{
+    height:400px;
+    width: 1270px;
+    border: solid gray;
+    color:white;
+    
+}
+
+#one{
+    margin-right:10%;
+    color:blue;
+}
+
+#two{
+    display: flex;
+}
+
+#columnone{
+    height: 300px;
+    width: 400px;
+    border: dotted gray;
+    
+}
+
+#coulumntwo{
+    height: 400px;
+    width: 400px;
+    border: dotted ;
+    
+   
+
+}
+#three{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+#container{
+    height:300px;
+    width:90%;
+    background: transparent;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    border: dotted;
+}
+
+#sub1{
+    height:200px;
+    width:200px;
+    background: gray;
+    border: dashed;
+}
+
+#sub2{
+    height: 200px;
+    width:200px;
+    background:blue;
+    margin: 5%;
+    border: dashed;
+    
+}
+
+#sub3{
+    height:200px;
+    width:200px;
+    background: gray;
+    border:dashed;
+}
+
+body{
+    background-image:url("apple.gif");
+}
+
